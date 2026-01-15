@@ -1,5 +1,5 @@
 
-# (Vue.js + Vite)[https://anton-mosquito.github.io/Vue-Pinia/]
+# [Vue.js + Vite](https://anton-mosquito.github.io/Vue-Pinia/)
 
 Огляд
 --
